@@ -1,4 +1,4 @@
-# nbody-simulatro-react-p5
+# nbody-simulator-react-p5
 
 WIP
 
