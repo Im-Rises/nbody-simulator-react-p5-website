@@ -7237,10 +7237,10 @@ natural-compare@^1.4.0:
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
-nbody-simulator-react-p5@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.npmjs.org/nbody-simulator-react-p5/-/nbody-simulator-react-p5-0.6.0.tgz"
-  integrity sha512-aiHza8HKSUdvS2rFBo7MQQr+8e+EW5qQNcUdm65Qpg3efTOWz7oGgyvPhQgkx4dQ4xyPLck6gc1QdIQlTyKPHw==
+nbody-simulator-react-p5@^0.6.1:
+  version "0.6.1"
+  resolved "https://registry.npmjs.org/nbody-simulator-react-p5/-/nbody-simulator-react-p5-0.6.1.tgz#4ad20149b5861a7f00b51670765e539a1316891c"
+  integrity sha512-/RbwtfIdCTkNib49xFHmegR12+pfWYUi8JDH0hYqg/DsD7UTwd+LG6VBuK37ETqGcYXsK8lA6yZR5SoSFe4X6w==
   dependencies:
     canvas "^2.11.0"
     react "^18.2.0"

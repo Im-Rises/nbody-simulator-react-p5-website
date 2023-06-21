@@ -30,26 +30,13 @@ particles by dragging your finger. To toggle attract/repel tap on the screen.
 
 ## Screenshots
 
-|                                                      Attraction                                                       |                                                         Drag                                                          |                                                       Repulsion                                                       |
-|:---------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-| ![screenshot1](https://user-images.githubusercontent.com/59691442/230525907-1efd6bc5-ce33-485a-879a-57a8ed46c596.png) | ![screenshot2](https://user-images.githubusercontent.com/59691442/230525910-7a41907f-d6fe-4ed2-8c44-94c09b837e6f.png) | ![screenshot3](https://user-images.githubusercontent.com/59691442/230525912-bb0054c4-0f0c-4f6e-b7c9-937f11ba0acf.png) |
+| Screenshot 1                                                                                                              | Screenshot 2                                                                                                              | 
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![Screenshot1](https://github.com/Im-Rises/nbody-simulator-react-p5/assets/59691442/59dbae4f-bfe8-4923-ad06-cc6abf07db13) | ![Screenshot2](https://github.com/Im-Rises/nbody-simulator-react-p5/assets/59691442/ec62857c-fb48-4049-8a8c-32a0ccc5fa91) |
 
 ## Demo video
 
-[//]: # (https://user-images.githubusercontent.com/59691442/219550627-16660c09-dbea-41f3-ba15-3d7aaafca6d9.mp4)
-
-[//]: # (https://user-images.githubusercontent.com/59691442/230523799-9afbf327-3cf4-4530-8127-594339d94334.mp4)
-
-https://user-images.githubusercontent.com/59691442/230526870-cd104007-be41-4cdd-a10e-4672da650974.mp4
-
-## Controls
-
-The particles are initially attracted to the mouse, but you can toggle attract/repel by clicking with the mouse
-button on a screen.  
-On tablet and mobile de the touch screen to move the particles by dragging your finger. To toggle
-attract/repel tap on the screen.
-
-You can also toggle fullscreen mode by pressing the `F11` key.
+https://github.com/Im-Rises/nbody-simulator-react-p5/assets/59691442/20bc593e-7bd0-4d60-9470-a8caed1a45bd
 
 ## GitHub Actions
 
