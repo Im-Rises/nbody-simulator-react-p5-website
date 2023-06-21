@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nbody-simulator-react-p5-website/static/css/main.c707c70e.css",
+    "main.js": "/nbody-simulator-react-p5-website/static/js/main.40f2253c.js",
+    "static/js/787.c708fc66.chunk.js": "/nbody-simulator-react-p5-website/static/js/787.c708fc66.chunk.js",
+    "static/media/github.svg": "/nbody-simulator-react-p5-website/static/media/github.255db585f8a0eb28a1e4deb91bde207d.svg",
+    "index.html": "/nbody-simulator-react-p5-website/index.html",
+    "main.c707c70e.css.map": "/nbody-simulator-react-p5-website/static/css/main.c707c70e.css.map",
+    "main.40f2253c.js.map": "/nbody-simulator-react-p5-website/static/js/main.40f2253c.js.map",
+    "787.c708fc66.chunk.js.map": "/nbody-simulator-react-p5-website/static/js/787.c708fc66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c707c70e.css",
+    "static/js/main.40f2253c.js"
+  ]
+}
