@@ -28,6 +28,10 @@ particles by dragging your finger. To toggle attract/repel tap on the screen.
 > I also made a C++ version for WebGL2 using OpenGL ES 3.0. You can check it
 > out [here](https://github.com/Im-Rises/nbody-simulator-webgl).
 
+> **Note**  
+> I also made a version using Barnes-Hut algorithm. You can check it
+> out [here](https://github.com/Im-Rises/nbody-simulator-barnes-hut-react-p5).
+
 ## Screenshots
 
 | Screenshot 1                                                                                                              | Screenshot 2                                                                                                              | 
