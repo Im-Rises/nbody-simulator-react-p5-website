@@ -13,20 +13,19 @@
 This is a simple demo of the `nbody-simulator-react-p5` package. It is a nbody simulator made with React and
 p5.js.
 
+The bodies are attracted to each other and by the mouse cursor on click.
+
 ## 🚀🚀[You can try it online from your browser](https://im-rises.github.io/nbody-simulator-react-p5-website/) 🚀🚀
-
-It works on desktop and mobile as well with different controls (check the `controls` section).
-
-The particles are set randomly on the screen in a circle shape. Their color change according to the speed of the
-particle. The particles are attracted to the mouse and they are repelled from the edges of the screen. You can toggle
-attract/repel by clicking with the mouse button on a screen. On tablet and mobile de the touch screen to move the
-particles by dragging your finger. To toggle attract/repel tap on the screen.
 
 ## 🚀🚀 [The package is available on npm](https://www.npmjs.com/package/nbody-simulator-react-p5) 🚀🚀
 
 > **Note**  
 > I also made a C++ version for WebGL2 using OpenGL ES 3.0. You can check it
 > out [here](https://github.com/Im-Rises/nbody-simulator-webgl).
+
+> **Note**  
+> I also made a version using Barnes-Hut algorithm. You can check it
+> out [here](https://github.com/Im-Rises/nbody-simulator-barnes-hut-react-p5).
 
 ## Screenshots
 
